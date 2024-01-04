@@ -17,7 +17,10 @@
     - Business Central expects each GL Account or Item on which a purchase or sales invoice is issued to have their own specific tax setup and VAT setup
     - So you need to setup VAT at the account/item level as well as the customer / vendor level    
     - After that yo need to do the Tax Setup (search for Tax Setup)
-7. **Remember to login as the Role of Accountant**
+7. **Table sizes (Object specifications and limitations)**
+    - [link here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-object-specifications-limitations)
+    - Tables have some restrictions on the fields, but table sizes can be large
+9. **Remember to login as the Role of Accountant**
 
 # Intercompany
 - **Why use Intercompany**    
