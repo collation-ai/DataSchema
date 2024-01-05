@@ -20,7 +20,9 @@
 7. **Table sizes (Object specifications and limitations)**
     - [link here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-object-specifications-limitations)
     - Tables have some restrictions on the fields, but table sizes can be large
-9. **Remember to login as the Role of Accountant**
+8. **Considerations for when to create new environments / tenants**
+    - [link here](https://learn.microsoft.com/en-us/power-platform/admin/multiple-online-environments-tenants)
+10. **Remember to login as the Role of Accountant**
 
 # Intercompany
 - **Why use Intercompany**    
