@@ -22,6 +22,10 @@
     - Tables have some restrictions on the fields, but table sizes can be large
 8. **Considerations for when to create new environments / tenants**
     - [link here](https://learn.microsoft.com/en-us/power-platform/admin/multiple-online-environments-tenants)
+9. **Video on APIs**
+    - [how to get API authentication on Business Central](https://youtu.be/zxDa222uXeQ?feature=shared)
+    - [how to call an API](https://youtu.be/r7MBwAnt4z0?feature=shared)
+    - [Erik's video on API Authentication](https://www.youtube.com/watch?v=B1rxyqR2ZCY)
 10. **Remember to login as the Role of Accountant**
 
 # Intercompany
